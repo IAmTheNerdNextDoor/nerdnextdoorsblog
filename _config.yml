@@ -145,6 +145,7 @@ footer:
 include:
   - .htaccess
   - _pages
+  - .well-known/discord
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
