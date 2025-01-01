@@ -116,7 +116,7 @@ author:
   name             : "NerdNextDoor"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Jack of all trades, master of none."
-  location         : "Somewhere in Scotland, United Kingdom"
+  # location         : "Somewhere in Scotland, United Kingdom"
   email            : 
   links:
     - label: "Email"
