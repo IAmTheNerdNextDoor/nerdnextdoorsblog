@@ -147,7 +147,7 @@ footer:
 include:
   - .htaccess
   - _pages
-  - ".well-known/discord"
+  - .well-known/
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -178,7 +178,6 @@ exclude:
 keep_files:
   - .git
   - .svn
-  - ".well-known/discord"
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
