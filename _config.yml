@@ -129,6 +129,7 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/AFellowSpeedrunner"
+      
 # Site Footer
 footer:
   links:
@@ -141,11 +142,12 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/AFellowSpeedrunner"
+      
 # Reading Files
 include:
   - .htaccess
   - _pages
-  - .well-known/discord
+  - ".well-known/discord"
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -176,8 +178,7 @@ exclude:
 keep_files:
   - .git
   - .svn
-  - .well-known/discord
-  - discord
+  - ".well-known/discord"
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
