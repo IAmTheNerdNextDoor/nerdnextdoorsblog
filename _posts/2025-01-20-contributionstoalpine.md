@@ -19,3 +19,5 @@ I think it was quite impressive about how fast I got this all working. It took a
 As of writing, the merge request on their GitLab is still to go through but I believe it will go somewhere soon enough.
 
 This page may change over time, keep a look out please!
+
+(And my mistake, this post was originally contributed under my Alpine GitLab forwarding email. I guess this just shows how much I've worked on this that I've forgotten to change email!)
