@@ -126,7 +126,7 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://mastodon.social/@MrMasterKeyboard"
     - label: "Codeberg"
-      icon: "fab fa-fw fa-link"
+      icon: "fas fa-fw fa-link"
       url: "https://codeberg.org/NerdNextDoor"
 
 # Site Footer
@@ -139,7 +139,7 @@ footer:
       icon: "fas fa-fw fa-link"
       url: "https://mastodon.social/@MrMasterKeyboard"
     - label: "Codeberg"
-      icon: "fab fa-fw fa-link"
+      icon: "fas fa-fw fa-link"
       url: "https://codeberg.org/NerdNextDoor"
 
 # Reading Files
