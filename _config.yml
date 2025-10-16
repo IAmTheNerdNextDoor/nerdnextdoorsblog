@@ -141,6 +141,12 @@ footer:
     - label: "Codeberg"
       icon: "fas fa-fw fa-link"
       url: "https://codeberg.org/NerdNextDoor"
+    - label: "Arikoto"
+      icon: "fas fa-fw fa-link"
+      url: "https://arikoto.nerdnextdoor.net"
+    - label: "The Kernel Development Wiki"
+      icon: "fas fa-fw fa-link"
+      url: "https://krnldev.nerdnextdoor.net"
 
 # Reading Files
 include:
